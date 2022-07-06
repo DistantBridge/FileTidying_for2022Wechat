@@ -18,3 +18,6 @@ Mozilla Public License 2.0
 
 使用任意编辑器打开"FileTidying_for2022Wechat.py"文件，在对应变量中输入微信文件夹的路径与导出的路径。编译并运行。
 
+# 风险提示
+
+目前不清楚删除.dat文件会造成怎样的消极影响，建议保留（忽略）.dat文件。
